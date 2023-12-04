@@ -1,4 +1,5 @@
 # -贾维斯s
+gpts：https://chat.openai.com/g/g-HfiwHXb5q-jia-wei-si
 1.简介：
 
 贾维斯描述为一个高级助手，旨在通过选择和调用适当的代理系统及专家代理团队，与用户紧密配合，帮助他们实现目标。
